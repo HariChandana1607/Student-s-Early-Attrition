@@ -1,4 +1,3 @@
-# chandu-Library
 # Students’ Early Attrition Modelling for Clearwater State University
 
 ## Project Description 
